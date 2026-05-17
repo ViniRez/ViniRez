@@ -7,7 +7,7 @@ Atualmente focado em criar interfaces modernas, experiências interativas e melh
 [![GitHub Follow](https://img.shields.io/github/followers/ViniRez?label=Follow&style=for-the-badge&logo=github&color=586069&labelColor=24292f&logoColor=white)](https://github.com/ViniRez)
 [![GitHub Stars](https://img.shields.io/github/stars/ViniRez?label=Stars&style=for-the-badge&logo=github&affiliations=OWNER%2CCOLLABORATOR&color=388bfd&labelColor=1f6feb&logoColor=white)](https://github.com/ViniRez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ViniRez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b6)](https://linkedin.com/in/vinirez2)
-[![Instagram](https://img.shields.io/badge/Instagram-@usuario-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://instagram.com/vini_rez)
+[![Instagram](https://img.shields.io/badge/Instagram-ViniRez-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://instagram.com/vini_rez)
 [![Portfólio](https://img.shields.io/badge/Portfólio-ver%20site-0cb38a?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0f9f7a)](https://vinirez.github.io/Portifolio/)
 
 ## 🚀 Sobre mim
