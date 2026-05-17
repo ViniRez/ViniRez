@@ -12,10 +12,14 @@ Atualmente focado em criar interfaces modernas, experiências interativas e melh
 
 ## 🚀 Sobre mim
 
-🎯 Focado em desenvolvimento Front-End
+🎯 Focado em desenvolvimento Front-End 
+
 📚 Estudando JavaScript, React e CSS avançado
-🎨 Interesse em UI Design e animações para web
+
+🎨 Interesse em UI Design e animações para web 
+
 ⚡ Gosto de criar landing pages e interfaces modernas
+
 🌎 Futuramente pretendo atuar como Fullstack Developer
 
 ### 🛠️ Tecnologias e Ferramentas
